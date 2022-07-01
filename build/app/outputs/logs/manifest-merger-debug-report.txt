@@ -1,0 +1,434 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:14:4-44:19
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-28:19
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-28:19
+MERGED from [:image_picker] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:flutter_barcode_scanner] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-19:19
+MERGED from [:flutter_barcode_scanner] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-19:19
+MERGED from [pub.devrel:easypermissions:0.2.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\842ad418123d7d084257a479897d2bf3\jetified-easypermissions-0.2.0\AndroidManifest.xml:12:5-20
+MERGED from [pub.devrel:easypermissions:0.2.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\842ad418123d7d084257a479897d2bf3\jetified-easypermissions-0.2.0\AndroidManifest.xml:12:5-20
+MERGED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\301dcae085c850a01832b6ad7d4e3723\jetified-android-zxingLibrary-0.1.2-PRE\AndroidManifest.xml:13:5-20:19
+MERGED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\301dcae085c850a01832b6ad7d4e3723\jetified-android-zxingLibrary-0.1.2-PRE\AndroidManifest.xml:13:5-20:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\020d7486ac61aa1c178a1fcda16203f8\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\020d7486ac61aa1c178a1fcda16203f8\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\3fdd46f829232c63e95945b94d0e4dc1\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\3fdd46f829232c63e95945b94d0e4dc1\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\44da1e9d3135fc1b3af8f4f6182ad2c9\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\44da1e9d3135fc1b3af8f4f6182ad2c9\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\9c43fd3a6ad978cd34a93a3c68eacaeb\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\9c43fd3a6ad978cd34a93a3c68eacaeb\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\03d86aa64eb7e128160b50b7f205d1b8\jetified-play-services-vision-20.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\03d86aa64eb7e128160b50b7f205d1b8\jetified-play-services-vision-20.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\ae88901c527c33f34868320fdb2b50d9\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\ae88901c527c33f34868320fdb2b50d9\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\2c9d7596d6ad801e8030b2371e764275\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\2c9d7596d6ad801e8030b2371e764275\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\32573a8d9a4016ec71717d4fd80ee493\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\32573a8d9a4016ec71717d4fd80ee493\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\76dde92b4ca75fcfbb242066f55fbf0d\jetified-play-services-base-17.4.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\76dde92b4ca75fcfbb242066f55fbf0d\jetified-play-services-base-17.4.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\26a7a45151e749908cf7ba3647c39291\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\26a7a45151e749908cf7ba3647c39291\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\fa7337b3044f7055035ddec1228796a3\jetified-play-services-basement-17.4.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\fa7337b3044f7055035ddec1228796a3\jetified-play-services-basement-17.4.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\44318f973e18fa59fe3957d8af199b21\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\44318f973e18fa59fe3957d8af199b21\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\bf224960c448cf8df3cc05170c7e1480\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\bf224960c448cf8df3cc05170c7e1480\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:screenOrientation
+		ADDED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:23:9-45
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\44318f973e18fa59fe3957d8af199b21\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-35
+	android:windowSoftInputMode
+		ADDED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:26:9-56
+	android:configChanges
+		ADDED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-59
+	android:largeHeap
+		ADDED from [:flutter_barcode_scanner] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-33
+	android:allowBackup
+		ADDED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:25:9-59
+	android:name
+		INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [:shared_preferences_android] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-30:12
+MERGED from [:image_picker] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_barcode_scanner] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-21:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [pub.devrel:easypermissions:0.2.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\842ad418123d7d084257a479897d2bf3\jetified-easypermissions-0.2.0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\301dcae085c850a01832b6ad7d4e3723\jetified-android-zxingLibrary-0.1.2-PRE\AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\020d7486ac61aa1c178a1fcda16203f8\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\3fdd46f829232c63e95945b94d0e4dc1\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\d6d4b8bb6099f7135fed07957ae530c5\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\44da1e9d3135fc1b3af8f4f6182ad2c9\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\7d8400aa5211d2fa7376d36c4ae0a810\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\9c43fd3a6ad978cd34a93a3c68eacaeb\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\c6ec4efb3b0cebc77db048b53f191828\exifinterface-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\99d4cb0a03acfdf5a5a5cb53ee093b78\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\5af3a7f0a70f5942e7b8418b1f853046\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\03d86aa64eb7e128160b50b7f205d1b8\jetified-play-services-vision-20.1.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\ae88901c527c33f34868320fdb2b50d9\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\2c9d7596d6ad801e8030b2371e764275\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\b63c185a6c4f7e983f14714d510801fb\jetified-play-services-flags-17.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\32573a8d9a4016ec71717d4fd80ee493\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\76dde92b4ca75fcfbb242066f55fbf0d\jetified-play-services-base-17.4.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\26a7a45151e749908cf7ba3647c39291\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\fa7337b3044f7055035ddec1228796a3\jetified-play-services-basement-17.4.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\c9cdaf4182134f09911a36f189490385\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\4f7f7f3a3f368bc6825ff4db53c81a8e\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\4e5dedc033bc6040f4c2a113747d6d00\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\1581d94240a89695ab1ef29acea08d4f\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\ecbace2447f80d6811303682bbaceec4\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\10d787bac5727615f654278744416d3b\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\fd64e00c6b389f06c11fd0d517caf5a9\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\5e4810477365094dd32b38f89aaacad5\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\532ccf14bb4e1d9f013b5b40be860ef3\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\ec01eea96bf423984b8aaec8efe5f1ec\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\a5ae3ab78b74c69f56a442d27493f455\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\8911a3ecd6aa12e0e84bb43db8e5d4d9\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\c51007774f4fd6d14ba4adbca0679a8a\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\8add393c18bb8b0f40364f4f0122baed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\768d7c72bc9337442454f519bc0c0b13\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\4ae13e51980df922166fca9b76823c39\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\f8347eebbb40a7a16c766592439b20a2\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\01eb5f62bb2e45b2a7854583faeba91e\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\58e09ead2cf759009c8bef110ef1b534\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\44318f973e18fa59fe3957d8af199b21\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\c25433a590f7a31e3ed68edc7c15d87d\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\9f9eeb4a2ce6b7f0e04914e9e53d43f8\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\51ee241fc071c840c1958154b88ad1d9\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\af8dbfafff109cbe2626d29a640ba8ef\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\353d713371cc45bbe32e571325b51724\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\92e6b919cde2985708bccc9bc7166477\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\29308333e0f4d0ec98714ab6bf510254\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\bf224960c448cf8df3cc05170c7e1480\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\e2012c2cdbc12a8f160bd51545cf11d1\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\82fd4d19557b31ac3138f0f6319ebc20\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\7d60a0771a7c66a549fabc9ce4dcc3e5\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\b02adddc7a94bc91462fb2a6725ea8cb\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\fb92da9c2dd107fc56f3a9f27e43e30b\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\175f4d36784449670c627698e9607853\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\e8947babe14030ab36b6f95be15600ef\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\debug\AndroidManifest.xml:1:1-16:12
+INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\debug\AndroidManifest.xml:1:1-16:12
+INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\debug\AndroidManifest.xml:1:1-16:12
+	package
+		ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:4:5-79
+MERGED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:4:5-79
+MERGED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-67
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:6:5-65
+MERGED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:6:5-65
+MERGED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:6:5-65
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-65
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-65
+MERGED from [:flutter_barcode_scanner] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-65
+MERGED from [:flutter_barcode_scanner] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:7:5-65
+MERGED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:7:5-65
+MERGED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:7:5-65
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-66
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-66
+MERGED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\301dcae085c850a01832b6ad7d4e3723\jetified-android-zxingLibrary-0.1.2-PRE\AndroidManifest.xml:11:5-66
+MERGED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\301dcae085c850a01832b6ad7d4e3723\jetified-android-zxingLibrary-0.1.2-PRE\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:7:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:8:5-68
+MERGED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:8:5-68
+MERGED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:8:5-68
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-69
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-69
+MERGED from [:flutter_barcode_scanner] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-69
+MERGED from [:flutter_barcode_scanner] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-69
+	android:name
+		ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:8:22-66
+uses-feature#android.hardware.camera
+ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:9:5-59
+MERGED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:9:5-59
+MERGED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:9:5-59
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-60
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-60
+MERGED from [:flutter_barcode_scanner] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-60
+MERGED from [:flutter_barcode_scanner] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:9:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:10:5-69
+MERGED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:10:5-69
+MERGED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:10:5-69
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-70
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:10:19-67
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-68
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:12:5-79
+MERGED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:12:5-79
+MERGED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:12:5-79
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-80
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:13:5-80
+MERGED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:13:5-80
+MERGED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:13:5-80
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-81
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:13:22-78
+uses-sdk
+INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences_android] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_barcode_scanner] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_barcode_scanner] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\permission_handler\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [pub.devrel:easypermissions:0.2.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\842ad418123d7d084257a479897d2bf3\jetified-easypermissions-0.2.0\AndroidManifest.xml:8:5-10:41
+MERGED from [pub.devrel:easypermissions:0.2.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\842ad418123d7d084257a479897d2bf3\jetified-easypermissions-0.2.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\301dcae085c850a01832b6ad7d4e3723\jetified-android-zxingLibrary-0.1.2-PRE\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\301dcae085c850a01832b6ad7d4e3723\jetified-android-zxingLibrary-0.1.2-PRE\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\020d7486ac61aa1c178a1fcda16203f8\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\020d7486ac61aa1c178a1fcda16203f8\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\3fdd46f829232c63e95945b94d0e4dc1\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\3fdd46f829232c63e95945b94d0e4dc1\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\d6d4b8bb6099f7135fed07957ae530c5\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\d6d4b8bb6099f7135fed07957ae530c5\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\44da1e9d3135fc1b3af8f4f6182ad2c9\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\44da1e9d3135fc1b3af8f4f6182ad2c9\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\7d8400aa5211d2fa7376d36c4ae0a810\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\7d8400aa5211d2fa7376d36c4ae0a810\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\9c43fd3a6ad978cd34a93a3c68eacaeb\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\9c43fd3a6ad978cd34a93a3c68eacaeb\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\c6ec4efb3b0cebc77db048b53f191828\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\c6ec4efb3b0cebc77db048b53f191828\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\99d4cb0a03acfdf5a5a5cb53ee093b78\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\99d4cb0a03acfdf5a5a5cb53ee093b78\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\5af3a7f0a70f5942e7b8418b1f853046\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\5af3a7f0a70f5942e7b8418b1f853046\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\03d86aa64eb7e128160b50b7f205d1b8\jetified-play-services-vision-20.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\03d86aa64eb7e128160b50b7f205d1b8\jetified-play-services-vision-20.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\ae88901c527c33f34868320fdb2b50d9\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\ae88901c527c33f34868320fdb2b50d9\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\2c9d7596d6ad801e8030b2371e764275\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\2c9d7596d6ad801e8030b2371e764275\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\b63c185a6c4f7e983f14714d510801fb\jetified-play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\b63c185a6c4f7e983f14714d510801fb\jetified-play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\32573a8d9a4016ec71717d4fd80ee493\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\32573a8d9a4016ec71717d4fd80ee493\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\76dde92b4ca75fcfbb242066f55fbf0d\jetified-play-services-base-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\76dde92b4ca75fcfbb242066f55fbf0d\jetified-play-services-base-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\26a7a45151e749908cf7ba3647c39291\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\26a7a45151e749908cf7ba3647c39291\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\fa7337b3044f7055035ddec1228796a3\jetified-play-services-basement-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\fa7337b3044f7055035ddec1228796a3\jetified-play-services-basement-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\c9cdaf4182134f09911a36f189490385\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\c9cdaf4182134f09911a36f189490385\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\4f7f7f3a3f368bc6825ff4db53c81a8e\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\4f7f7f3a3f368bc6825ff4db53c81a8e\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\4e5dedc033bc6040f4c2a113747d6d00\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\4e5dedc033bc6040f4c2a113747d6d00\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\1581d94240a89695ab1ef29acea08d4f\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\1581d94240a89695ab1ef29acea08d4f\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\ecbace2447f80d6811303682bbaceec4\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\ecbace2447f80d6811303682bbaceec4\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\10d787bac5727615f654278744416d3b\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\10d787bac5727615f654278744416d3b\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\fd64e00c6b389f06c11fd0d517caf5a9\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\fd64e00c6b389f06c11fd0d517caf5a9\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\5e4810477365094dd32b38f89aaacad5\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\5e4810477365094dd32b38f89aaacad5\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\532ccf14bb4e1d9f013b5b40be860ef3\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\532ccf14bb4e1d9f013b5b40be860ef3\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\ec01eea96bf423984b8aaec8efe5f1ec\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\ec01eea96bf423984b8aaec8efe5f1ec\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\a5ae3ab78b74c69f56a442d27493f455\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\a5ae3ab78b74c69f56a442d27493f455\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\8911a3ecd6aa12e0e84bb43db8e5d4d9\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\8911a3ecd6aa12e0e84bb43db8e5d4d9\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\c51007774f4fd6d14ba4adbca0679a8a\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\c51007774f4fd6d14ba4adbca0679a8a\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\8add393c18bb8b0f40364f4f0122baed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\8add393c18bb8b0f40364f4f0122baed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\768d7c72bc9337442454f519bc0c0b13\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\768d7c72bc9337442454f519bc0c0b13\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\4ae13e51980df922166fca9b76823c39\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\4ae13e51980df922166fca9b76823c39\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\f8347eebbb40a7a16c766592439b20a2\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\f8347eebbb40a7a16c766592439b20a2\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\01eb5f62bb2e45b2a7854583faeba91e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\01eb5f62bb2e45b2a7854583faeba91e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\58e09ead2cf759009c8bef110ef1b534\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\58e09ead2cf759009c8bef110ef1b534\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\44318f973e18fa59fe3957d8af199b21\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\44318f973e18fa59fe3957d8af199b21\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\c25433a590f7a31e3ed68edc7c15d87d\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\c25433a590f7a31e3ed68edc7c15d87d\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\9f9eeb4a2ce6b7f0e04914e9e53d43f8\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\9f9eeb4a2ce6b7f0e04914e9e53d43f8\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\51ee241fc071c840c1958154b88ad1d9\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\51ee241fc071c840c1958154b88ad1d9\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\af8dbfafff109cbe2626d29a640ba8ef\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\af8dbfafff109cbe2626d29a640ba8ef\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\353d713371cc45bbe32e571325b51724\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\353d713371cc45bbe32e571325b51724\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\92e6b919cde2985708bccc9bc7166477\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\92e6b919cde2985708bccc9bc7166477\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\29308333e0f4d0ec98714ab6bf510254\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\29308333e0f4d0ec98714ab6bf510254\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\bf224960c448cf8df3cc05170c7e1480\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\bf224960c448cf8df3cc05170c7e1480\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\e2012c2cdbc12a8f160bd51545cf11d1\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\e2012c2cdbc12a8f160bd51545cf11d1\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\82fd4d19557b31ac3138f0f6319ebc20\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\82fd4d19557b31ac3138f0f6319ebc20\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\7d60a0771a7c66a549fabc9ce4dcc3e5\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\7d60a0771a7c66a549fabc9ce4dcc3e5\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\b02adddc7a94bc91462fb2a6725ea8cb\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\b02adddc7a94bc91462fb2a6725ea8cb\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\fb92da9c2dd107fc56f3a9f27e43e30b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\fb92da9c2dd107fc56f3a9f27e43e30b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\175f4d36784449670c627698e9607853\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\175f4d36784449670c627698e9607853\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\e8947babe14030ab36b6f95be15600ef\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\e8947babe14030ab36b6f95be15600ef\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\debug\AndroidManifest.xml
+activity#com.shinow.qrscan.SecondActivity
+ADDED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-69
+	android:name
+		ADDED from [:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\debug\AndroidManifest.xml:27:19-66
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+activity#com.amolg.flutterbarcodescanner.BarcodeCaptureActivity
+ADDED from [:flutter_barcode_scanner] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-91
+	android:name
+		ADDED from [:flutter_barcode_scanner] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:18:19-88
+activity#com.uuzuche.lib_zxing.activity.CaptureActivity
+ADDED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\301dcae085c850a01832b6ad7d4e3723\jetified-android-zxingLibrary-0.1.2-PRE\AndroidManifest.xml:14:9-19:63
+	android:screenOrientation
+		ADDED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\301dcae085c850a01832b6ad7d4e3723\jetified-android-zxingLibrary-0.1.2-PRE\AndroidManifest.xml:17:13-49
+	android:windowSoftInputMode
+		ADDED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\301dcae085c850a01832b6ad7d4e3723\jetified-android-zxingLibrary-0.1.2-PRE\AndroidManifest.xml:19:13-60
+	android:configChanges
+		ADDED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\301dcae085c850a01832b6ad7d4e3723\jetified-android-zxingLibrary-0.1.2-PRE\AndroidManifest.xml:16:13-63
+	android:theme
+		ADDED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\301dcae085c850a01832b6ad7d4e3723\jetified-android-zxingLibrary-0.1.2-PRE\AndroidManifest.xml:18:13-63
+	android:name
+		ADDED from [com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\301dcae085c850a01832b6ad7d4e3723\jetified-android-zxingLibrary-0.1.2-PRE\AndroidManifest.xml:15:13-74
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\44da1e9d3135fc1b3af8f4f6182ad2c9\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\44da1e9d3135fc1b3af8f4f6182ad2c9\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\44da1e9d3135fc1b3af8f4f6182ad2c9\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\44da1e9d3135fc1b3af8f4f6182ad2c9\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\9c43fd3a6ad978cd34a93a3c68eacaeb\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\9c43fd3a6ad978cd34a93a3c68eacaeb\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\9c43fd3a6ad978cd34a93a3c68eacaeb\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\9c43fd3a6ad978cd34a93a3c68eacaeb\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\9c43fd3a6ad978cd34a93a3c68eacaeb\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\9c43fd3a6ad978cd34a93a3c68eacaeb\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\76dde92b4ca75fcfbb242066f55fbf0d\jetified-play-services-base-17.4.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\76dde92b4ca75fcfbb242066f55fbf0d\jetified-play-services-base-17.4.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\76dde92b4ca75fcfbb242066f55fbf0d\jetified-play-services-base-17.4.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\76dde92b4ca75fcfbb242066f55fbf0d\jetified-play-services-base-17.4.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\fa7337b3044f7055035ddec1228796a3\jetified-play-services-basement-17.4.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\fa7337b3044f7055035ddec1228796a3\jetified-play-services-basement-17.4.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\fa7337b3044f7055035ddec1228796a3\jetified-play-services-basement-17.4.0\AndroidManifest.xml:24:13-58

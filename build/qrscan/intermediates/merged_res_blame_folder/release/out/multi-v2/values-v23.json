@@ -1,0 +1,74 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\tps\\Desktop\\Work\\flutter\\FA_Mobile\\flutter-fix-assets\\build\\qrscan\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v23\\values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tps\\.gradle\\caches\\transforms-2\\files-2.1\\29308333e0f4d0ec98714ab6bf510254\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "48",
+                        "startColumns": "4",
+                        "startOffsets": "3407",
+                        "endLines": "50",
+                        "endColumns": "12",
+                        "endOffsets": "3552"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\tps\\.gradle\\caches\\transforms-2\\files-2.1\\d4cdd911c73bc43aa6c5797d1f135684\\appcompat-1.1.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2618,2842,2957,3064,3177",
+                        "endLines": "2,3,4,5,19,33,34,35,36,40,41,42,43,47",
+                        "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2613,2837,2952,3059,3172,3402"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\tps\\Desktop\\Work\\flutter\\FA_Mobile\\flutter-fix-assets\\build\\qrscan\\intermediates\\res\\merged\\release\\values-v23\\values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tps\\.gradle\\caches\\transforms-2\\files-2.1\\29308333e0f4d0ec98714ab6bf510254\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "48",
+                        "startColumns": "4",
+                        "startOffsets": "3407",
+                        "endLines": "50",
+                        "endColumns": "12",
+                        "endOffsets": "3552"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\tps\\.gradle\\caches\\transforms-2\\files-2.1\\d4cdd911c73bc43aa6c5797d1f135684\\appcompat-1.1.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2618,2842,2957,3064,3177",
+                        "endLines": "2,3,4,5,19,33,34,35,36,40,41,42,43,47",
+                        "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2613,2837,2952,3059,3172,3402"
+                    }
+                }
+            ]
+        }
+    ]
+}

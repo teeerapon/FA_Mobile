@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\tps\\Desktop\\Work\\flutter\\FA_Mobile\\flutter-fix-assets\\build\\shared_preferences_android\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-mr\\values-mr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tps\\.gradle\\caches\\transforms-2\\files-2.1\\44318f973e18fa59fe3957d8af199b21\\core-1.6.0\\res\\values-mr\\values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\tps\\Desktop\\Work\\flutter\\FA_Mobile\\flutter-fix-assets\\build\\shared_preferences_android\\intermediates\\res\\merged\\release\\values-mr\\values-mr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tps\\.gradle\\caches\\transforms-2\\files-2.1\\44318f973e18fa59fe3957d8af199b21\\core-1.6.0\\res\\values-mr\\values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

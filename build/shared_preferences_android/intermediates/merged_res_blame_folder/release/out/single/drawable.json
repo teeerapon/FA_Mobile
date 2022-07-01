@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\tps\\Desktop\\Work\\flutter\\FA_Mobile\\flutter-fix-assets\\build\\shared_preferences_android\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\tps\\.gradle\\caches\\transforms-2\\files-2.1\\44318f973e18fa59fe3957d8af199b21\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\tps\\Desktop\\Work\\flutter\\FA_Mobile\\flutter-fix-assets\\build\\shared_preferences_android\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\tps\\.gradle\\caches\\transforms-2\\files-2.1\\44318f973e18fa59fe3957d8af199b21\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tps\\Desktop\\Work\\flutter\\FA_Mobile\\flutter-fix-assets\\build\\shared_preferences_android\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\tps\\.gradle\\caches\\transforms-2\\files-2.1\\44318f973e18fa59fe3957d8af199b21\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\tps\\Desktop\\Work\\flutter\\FA_Mobile\\flutter-fix-assets\\build\\shared_preferences_android\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\tps\\.gradle\\caches\\transforms-2\\files-2.1\\44318f973e18fa59fe3957d8af199b21\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

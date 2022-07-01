@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\tps\\Desktop\\Work\\flutter\\FA_Mobile\\flutter-fix-assets\\build\\qrscan\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\qrscan-0.3.2\\android\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\tps\\Desktop\\Work\\flutter\\FA_Mobile\\flutter-fix-assets\\build\\qrscan\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\ic_light.png",
+        "source": "C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\qrscan-0.3.2\\android\\src\\main\\res\\mipmap-xxxhdpi\\ic_light.png"
+    },
+    {
+        "merged": "C:\\Users\\tps\\Desktop\\Work\\flutter\\FA_Mobile\\flutter-fix-assets\\build\\qrscan\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\ic_back.png",
+        "source": "C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\qrscan-0.3.2\\android\\src\\main\\res\\mipmap-xxxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\tps\\Desktop\\Work\\flutter\\FA_Mobile\\flutter-fix-assets\\build\\qrscan\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi-v4\\ic_photo.png",
+        "source": "C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\qrscan-0.3.2\\android\\src\\main\\res\\mipmap-xxxhdpi\\ic_photo.png"
+    }
+]

@@ -1,0 +1,18 @@
+com/shinow/qrscan/QrscanPlugin.java
+ com.shinow.qrscan.QrscanPlugin
+com/shinow/qrscan/CustomAnalyzeCallback.java
+ com.shinow.qrscan.CustomAnalyzeCallback
+com/shinow/qrscan/CheckPermissionUtils.java
+ com.shinow.qrscan.CheckPermissionUtils
+com/shinow/qrscan/ImageUtil.java
+ com.shinow.qrscan.ImageUtil
+com/shinow/qrscan/BuildConfig.java
+ com.shinow.qrscan.BuildConfig
+com/shinow/qrscan/LightSensorEventListener.java
+ com.shinow.qrscan.LightSensorEventListener
+com/shinow/qrscan/SecondActivity.java
+ com.shinow.qrscan.SecondActivity
+ com.shinow.qrscan.SecondActivity$1
+ com.shinow.qrscan.SecondActivity$2
+ com.shinow.qrscan.SecondActivity$3
+ com.shinow.qrscan.SecondActivity$4

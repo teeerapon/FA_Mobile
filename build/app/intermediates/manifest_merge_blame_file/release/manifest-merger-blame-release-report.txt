@@ -1,0 +1,198 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.purethai.fa_counting_test"
+4    android:versionCode="2"
+5    android:versionName="1.0.2" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:4:5-79
+11-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:4:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:5:5-66
+12-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:5:22-64
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:6:5-65
+13-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:6:22-62
+14    <uses-permission android:name="android.permission.VIBRATE" />
+14-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:7:5-65
+14-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:7:22-63
+15    <uses-permission android:name="android.permission.FLASHLIGHT" />
+15-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:8:5-68
+15-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:8:22-66
+16
+17    <uses-feature android:name="android.hardware.camera" />
+17-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:9:5-59
+17-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:9:19-57
+18    <uses-feature android:name="android.hardware.camera.autofocus" />
+18-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:10:5-69
+18-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:10:19-67
+19
+20    <uses-permission android:name="android.permission.WAKE_LOCK" />
+20-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:11:5-67
+20-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:11:22-65
+21    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+21-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:12:5-79
+21-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:12:22-77
+22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+22-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:13:5-80
+22-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:13:22-78
+23
+24    <application
+25        android:name="android.app.Application"
+25-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:16:9-42
+26        android:allowBackup="true"
+26-->[:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\release\AndroidManifest.xml:20:9-35
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.6.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\44318f973e18fa59fe3957d8af199b21\core-1.6.0\AndroidManifest.xml:24:18-86
+28        android:configChanges="orientation|keyboardHidden"
+28-->[:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\release\AndroidManifest.xml:21:9-59
+29        android:icon="@mipmap/ic_launcher"
+29-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:17:9-43
+30        android:label="FA Mobile (Beta)"
+30-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:15:9-41
+31        android:largeHeap="true"
+31-->[:flutter_barcode_scanner] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\flutter_barcode_scanner\intermediates\library_manifest\release\AndroidManifest.xml:16:9-33
+32        android:screenOrientation="portrait"
+32-->[:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\release\AndroidManifest.xml:23:9-45
+33        android:supportsRtl="true"
+33-->[:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\release\AndroidManifest.xml:24:9-35
+34        android:theme="@style/Theme.AppCompat.NoActionBar"
+34-->[:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\release\AndroidManifest.xml:25:9-59
+35        android:windowSoftInputMode="stateAlwaysHidden" >
+35-->[:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\release\AndroidManifest.xml:26:9-56
+36        <activity
+36-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:18:9-38:20
+37            android:name="com.purethai.fa_counting_test.MainActivity"
+37-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:19:13-41
+38            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+38-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:23:13-163
+39            android:exported="true"
+39-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:20:13-36
+40            android:hardwareAccelerated="true"
+40-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:24:13-47
+41            android:launchMode="singleTop"
+41-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:21:13-43
+42            android:theme="@style/LaunchTheme"
+42-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:22:13-47
+43            android:windowSoftInputMode="adjustResize" >
+43-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:25:13-55
+44
+45            <!--
+46                 Specifies an Android theme to apply to this Activity as soon as
+47                 the Android process has started. This theme is visible to the user
+48                 while the Flutter UI initializes. After that, this theme continues
+49                 to determine the Window background behind the Flutter UI.
+50            -->
+51            <meta-data
+51-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:30:13-33:17
+52                android:name="io.flutter.embedding.android.NormalTheme"
+52-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:31:15-70
+53                android:resource="@style/NormalTheme" />
+53-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:32:15-52
+54
+55            <intent-filter>
+55-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:34:13-37:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:35:17-68
+56-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:35:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:36:17-76
+58-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:36:27-74
+59            </intent-filter>
+60        </activity>
+61        <!--
+62             Don't delete the meta-data below.
+63             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+64        -->
+65        <meta-data
+65-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:41:9-43:33
+66            android:name="flutterEmbedding"
+66-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:42:13-44
+67            android:value="2" />
+67-->C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\android\app\src\main\AndroidManifest.xml:43:13-30
+68
+69        <activity android:name="com.shinow.qrscan.SecondActivity" />
+69-->[:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\release\AndroidManifest.xml:27:9-69
+69-->[:qrscan] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\qrscan\intermediates\library_manifest\release\AndroidManifest.xml:27:19-66
+70
+71        <provider
+71-->[:image_picker] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:8:9-16:20
+72            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+72-->[:image_picker] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:9:13-82
+73            android:authorities="com.purethai.fa_counting_test.flutter.image_provider"
+73-->[:image_picker] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:10:13-74
+74            android:exported="false"
+74-->[:image_picker] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:11:13-37
+75            android:grantUriPermissions="true" >
+75-->[:image_picker] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:12:13-47
+76            <meta-data
+76-->[:image_picker] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:13:13-15:75
+77                android:name="android.support.FILE_PROVIDER_PATHS"
+77-->[:image_picker] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:14:17-67
+78                android:resource="@xml/flutter_image_picker_file_paths" />
+78-->[:image_picker] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\image_picker\intermediates\library_manifest\release\AndroidManifest.xml:15:17-72
+79        </provider>
+80
+81        <activity android:name="com.amolg.flutterbarcodescanner.BarcodeCaptureActivity" />
+81-->[:flutter_barcode_scanner] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\flutter_barcode_scanner\intermediates\library_manifest\release\AndroidManifest.xml:18:9-91
+81-->[:flutter_barcode_scanner] C:\Users\tps\Desktop\Work\flutter\FA_Mobile\flutter-fix-assets\build\flutter_barcode_scanner\intermediates\library_manifest\release\AndroidManifest.xml:18:19-88
+82        <activity
+82-->[com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\301dcae085c850a01832b6ad7d4e3723\jetified-android-zxingLibrary-0.1.2-PRE\AndroidManifest.xml:14:9-19:63
+83            android:name="com.uuzuche.lib_zxing.activity.CaptureActivity"
+83-->[com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\301dcae085c850a01832b6ad7d4e3723\jetified-android-zxingLibrary-0.1.2-PRE\AndroidManifest.xml:15:13-74
+84            android:configChanges="orientation|keyboardHidden"
+84-->[com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\301dcae085c850a01832b6ad7d4e3723\jetified-android-zxingLibrary-0.1.2-PRE\AndroidManifest.xml:16:13-63
+85            android:screenOrientation="portrait"
+85-->[com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\301dcae085c850a01832b6ad7d4e3723\jetified-android-zxingLibrary-0.1.2-PRE\AndroidManifest.xml:17:13-49
+86            android:theme="@style/Theme.AppCompat.NoActionBar"
+86-->[com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\301dcae085c850a01832b6ad7d4e3723\jetified-android-zxingLibrary-0.1.2-PRE\AndroidManifest.xml:18:13-63
+87            android:windowSoftInputMode="stateAlwaysHidden" />
+87-->[com.github.leyan95:android-zxingLibrary:0.1.2-PRE] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\301dcae085c850a01832b6ad7d4e3723\jetified-android-zxingLibrary-0.1.2-PRE\AndroidManifest.xml:19:13-60
+88
+89        <provider
+89-->[com.squareup.picasso:picasso:2.71828] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\44da1e9d3135fc1b3af8f4f6182ad2c9\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+90            android:name="com.squareup.picasso.PicassoProvider"
+90-->[com.squareup.picasso:picasso:2.71828] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\44da1e9d3135fc1b3af8f4f6182ad2c9\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+91            android:authorities="com.purethai.fa_counting_test.com.squareup.picasso"
+91-->[com.squareup.picasso:picasso:2.71828] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\44da1e9d3135fc1b3af8f4f6182ad2c9\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+92            android:exported="false" />
+92-->[com.squareup.picasso:picasso:2.71828] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\44da1e9d3135fc1b3af8f4f6182ad2c9\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+93
+94        <uses-library
+94-->[androidx.window:window:1.0.0-beta04] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\9c43fd3a6ad978cd34a93a3c68eacaeb\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+95            android:name="androidx.window.extensions"
+95-->[androidx.window:window:1.0.0-beta04] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\9c43fd3a6ad978cd34a93a3c68eacaeb\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+96            android:required="false" />
+96-->[androidx.window:window:1.0.0-beta04] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\9c43fd3a6ad978cd34a93a3c68eacaeb\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+97        <uses-library
+97-->[androidx.window:window:1.0.0-beta04] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\9c43fd3a6ad978cd34a93a3c68eacaeb\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+98            android:name="androidx.window.sidecar"
+98-->[androidx.window:window:1.0.0-beta04] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\9c43fd3a6ad978cd34a93a3c68eacaeb\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+99            android:required="false" />
+99-->[androidx.window:window:1.0.0-beta04] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\9c43fd3a6ad978cd34a93a3c68eacaeb\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+100
+101        <activity
+101-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\76dde92b4ca75fcfbb242066f55fbf0d\jetified-play-services-base-17.4.0\AndroidManifest.xml:23:9-26:75
+102            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+102-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\76dde92b4ca75fcfbb242066f55fbf0d\jetified-play-services-base-17.4.0\AndroidManifest.xml:24:13-79
+103            android:exported="false"
+103-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\76dde92b4ca75fcfbb242066f55fbf0d\jetified-play-services-base-17.4.0\AndroidManifest.xml:25:13-37
+104            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+104-->[com.google.android.gms:play-services-base:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\76dde92b4ca75fcfbb242066f55fbf0d\jetified-play-services-base-17.4.0\AndroidManifest.xml:26:13-72
+105
+106        <meta-data
+106-->[com.google.android.gms:play-services-basement:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\fa7337b3044f7055035ddec1228796a3\jetified-play-services-basement-17.4.0\AndroidManifest.xml:23:9-25:69
+107            android:name="com.google.android.gms.version"
+107-->[com.google.android.gms:play-services-basement:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\fa7337b3044f7055035ddec1228796a3\jetified-play-services-basement-17.4.0\AndroidManifest.xml:24:13-58
+108            android:value="@integer/google_play_services_version" />
+108-->[com.google.android.gms:play-services-basement:17.4.0] C:\Users\tps\.gradle\caches\transforms-2\files-2.1\fa7337b3044f7055035ddec1228796a3\jetified-play-services-basement-17.4.0\AndroidManifest.xml:25:13-66
+109    </application>
+110
+111</manifest>

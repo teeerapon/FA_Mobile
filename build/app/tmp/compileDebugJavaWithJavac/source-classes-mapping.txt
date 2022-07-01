@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/purethai/fa_counting_test/BuildConfig.java
+ com.purethai.fa_counting_test.BuildConfig

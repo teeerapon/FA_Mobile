@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\tps\\Desktop\\Work\\flutter\\FA_Mobile\\flutter-fix-assets\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\tps\\.gradle\\caches\\transforms-2\\files-2.1\\020d7486ac61aa1c178a1fcda16203f8\\material-1.3.0\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\tps\\Desktop\\Work\\flutter\\FA_Mobile\\flutter-fix-assets\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\tps\\.gradle\\caches\\transforms-2\\files-2.1\\020d7486ac61aa1c178a1fcda16203f8\\material-1.3.0\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\tps\\Desktop\\Work\\flutter\\FA_Mobile\\flutter-fix-assets\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\anim-v21\\mtrl_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\tps\\.gradle\\caches\\transforms-2\\files-2.1\\020d7486ac61aa1c178a1fcda16203f8\\material-1.3.0\\res\\anim-v21\\mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\tps\\Desktop\\Work\\flutter\\FA_Mobile\\flutter-fix-assets\\build\\flutter_barcode_scanner\\intermediates\\res\\merged\\release\\anim-v21\\mtrl_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\tps\\.gradle\\caches\\transforms-2\\files-2.1\\020d7486ac61aa1c178a1fcda16203f8\\material-1.3.0\\res\\anim-v21\\mtrl_bottom_sheet_slide_out.xml"
+    }
+]
